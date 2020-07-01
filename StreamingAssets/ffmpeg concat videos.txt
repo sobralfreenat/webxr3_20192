@@ -1,0 +1,3 @@
+C:\Users\AlexWinDev\Downloads\unity-webxr-export-master\Builds\StreamingAssets
+
+ffmpeg -safe 0 -f concat -i videoplaylist.txt -c copy outputTrailers1a4.mp4
